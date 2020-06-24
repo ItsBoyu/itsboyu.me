@@ -1,13 +1,24 @@
 ---
-title: "About me"
+title: "About ME"
 template: "page"
-socialImage: "/media/image-2.jpg"
+# socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+> 擺脫無法累積技術與單調的安逸生活  
+> 鼓起勇氣邁出轉變的腳步  
+> 喜歡這樣每天進步的自己
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+國立臺北大學畢業的文組生  
+從沒想過是否做得到  
+卻已然走在程式學習這條路上  
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### 特質 Personality
+＃熱衷學習、＃注重細節、＃善於溝通
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### 技能 Skill
+* Ruby on Rails
+* HTML / CSS / Bootstrap
+* JavaScript
+* postgreSQL
+* Docker / Deploy
+* Git

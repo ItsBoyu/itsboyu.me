@@ -1,14 +1,15 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://itsboyu.me',
+  // https://lumen.netlify.com
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Boyu\'s note',
+  subtitle: '筆記練習',
+  copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,19 +26,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Boyu\'s note',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '筆記練習',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'rider945@outlook.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'ItsBoyu',
+      github: 'ItsBoyu',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '陳柏宇-boyu',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
