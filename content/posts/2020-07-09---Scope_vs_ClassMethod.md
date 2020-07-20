@@ -28,7 +28,7 @@ socialImage: ""
 仔細觀察 `Card.has_records` 語法，其實不難發現跟 `class Card` 的類別方法用法相同，事實上，也可以透過定義類別方法來達成 Scope 帶來的好處。
 ```ruby
   def self.has_records
-    Card.where(solved: true)
+    where(solved: true)
   end
 ```
 
@@ -47,7 +47,7 @@ socialImage: ""
   
   # 類別方法
   def self.for_mealtime(period)
-    Menu.where(period: period)
+    where(period: period)
   end
 
   def self.recent
@@ -87,7 +87,7 @@ socialImage: ""
 同樣在類別方法新增 `present?` 判斷式
 ```ruby
   def self.for_mealtime(period)
-    Menu.where(period: period) if period.present?
+    where(period: period) if period.present?
   end
 ```
 結果回傳 `nil`，繼續使用 `recent` 連續技的話則會噴出 `NoMethodError`
@@ -105,7 +105,7 @@ socialImage: ""
 ```ruby
   def self.for_mealtime(period)
     if period.present?
-      Menu.where(period: period)
+      where(period: period)
     else
       Menu.all
     end
