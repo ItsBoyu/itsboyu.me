@@ -7,12 +7,12 @@ slug: "Learning Functional Programming with JS"
 category: "程式學習"
 tags:
   - "筆記練習"
-description: ""
+description: "加強英文聽力，從 JSconf 開始"
 socialImage: ""
 ---
 
 
-[![An introduction to functional programming](http://img.youtube.com/vi/e-5obm1G_FY/0.jpg)](https://www.youtube.com/watch?v=e-5obm1G_FY "An introduction to functional programming")
+[![An introduction to functional programming](http://img.youtube.com/vi/e-5obm1G_FY/0.jpg)](http://www.youtube.com/watch?v=e-5obm1G_FY "An introduction to functional programming")
 
 ### What’s functional programming?
 - a programming paradigm
