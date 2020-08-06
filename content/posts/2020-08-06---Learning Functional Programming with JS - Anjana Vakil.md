@@ -12,7 +12,7 @@ socialImage: ""
 ---
 
 
-[![An introduction to functional programming](http://img.youtube.com/vi/e-5obm1G_FY/0.jpg)](http://www.youtube.com/watch?v=e-5obm1G_FY "An introduction to functional programming")
+[![An introduction to functional programming](https://i.imgur.com/Fz3rVsE.jpg)](http://www.youtube.com/watch?v=e-5obm1G_FY "An introduction to functional programming")
 
 ### What’s functional programming?
 - a programming paradigm
